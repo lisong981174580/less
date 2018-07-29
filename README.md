@@ -17,3 +17,7 @@ lessc index.less  index.css
 <script  type="text/javascript" src="js/less.min.js><script>
 
 ```
+
+#### 课外插件
+* Sublime 3安装Emmet扩展，支持BEM
+* 获取psd效果图，并且使用标注工具PxCook标注
